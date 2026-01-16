@@ -211,6 +211,7 @@ Once that is completed, the program runs calculations to find:
 > - The average mood score.
 > - The highest mood score.
 > - The lowest mood score.
+> 
 > And then provides feedback as for what the user can do or expect to feel like for the next upcoming week depending on how high or
 > low their average mood score is.
 
