@@ -202,7 +202,7 @@ You must:
   
 ---
 ### Quan Nguyen
-`Project Theme:` Mood
+`Project Theme:` Mood \n
 `Description:`
 > This program takes user input on a scale from 1-5 (inclusive) after asking them to rate their mood over 7 days in a week.
 Once that is completed, the program runs calculations to find:
