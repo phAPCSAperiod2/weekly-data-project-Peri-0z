@@ -199,15 +199,17 @@ You must:
   - Your name  
   - Your chosen project theme  
   - A short description of your program
-
-Quan Nguyen
-Project Theme: Mood
-Description: This program takes user input on a scale from 1-5 (inclusive) after asking them to rate their mood over 7 days in a week.
+  
+---
+### Quan Nguyen
+`Project Theme:` Mood
+`Description:`
+> This program takes user input on a scale from 1-5 (inclusive) after asking them to rate their mood over 7 days in a week.
 Once that is completed, the program runs calculations to find:
-- The total mood score.
-- The average mood score.
-- The highest mood score.
-- The lowest mood score.
-And then provides feedback as for what the user can do or expect to feel like for the next upcoming week depending on how high or
-low their average mood score is.
+> - The total mood score.
+> - The average mood score.
+> - The highest mood score.
+> - The lowest mood score.
+> And then provides feedback as for what the user can do or expect to feel like for the next upcoming week depending on how high or
+> low their average mood score is.
 
